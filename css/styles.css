@@ -1,0 +1,8 @@
+.form-control {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  flex-flow: row wrap;
+}
