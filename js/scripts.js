@@ -12,7 +12,7 @@ $(document).ready(function () {
     const groceriesArray = userInput.split(' ');
 
     // output groceriesArray to user
-    $('.groceriesList').empty();
+    // $('.groceriesList').empty();
     groceriesArray.forEach(function(grocery) {
       $('.groceriesList').append('<li>' + 'You need ' + grocery + '</li>');
     });

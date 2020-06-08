@@ -6,3 +6,26 @@
   display: flex;
   flex-flow: row wrap;
 }
+
+.col-md-3 {
+  background-color: beige;
+}
+
+.btn {
+  width: 100%;
+}
+
+label {
+  text-align: center;
+}
+
+.form-group {
+  text-align: center;
+}
+
+.col-md-6 {
+  background-color: beige;
+}
+body {
+  background-color: beige;
+}
